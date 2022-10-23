@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\bin\Debug\07.exe.config
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\bin\Debug\07.exe
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\bin\Debug\07.pdb
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\obj\Debug\07-08-09.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\obj\Debug\07-08-09.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\obj\Debug\07-08-09.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\obj\Debug\07.exe
+C:\Users\user\OneDrive\Рабочий стол\ІФТКН\2 курс\C#\Lab7\07\obj\Debug\07.pdb
